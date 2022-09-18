@@ -1,0 +1,94 @@
+body {
+    margin: 0 200px;
+    background: -webkit-linear-gradient(rgb(87, 85, 85), rgb(192, 190, 190));
+}
+
+.head {
+    text-align: center;
+    padding: 20px;
+    font-size: xx-large;
+    color: wheat;
+    font-weight: 900;
+    background: -webkit-linear-gradient(rgb(87, 85, 85), #252229);
+}
+
+.main {
+    background: #252229;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: wheat;
+}
+
+.avatar {
+    width: 200px;
+    height: 200px;
+    margin: 20px 40px 10px 60px;
+    border-radius: 50%;
+    border: 5px solid #252229;
+    box-shadow: 2px 5px 10px black;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    font-size: x-large;
+}
+
+.conversa {
+    display: flex;
+    flex-direction: column;
+    font-size: larger;
+}
+
+.reflexoes {
+    background: #47434b;
+    padding: 20px 20% 20px 10%;
+    color: #c3bbcf;
+}
+
+.acoes {
+    background: #66636b;
+    padding: 20px 20% 20px 10%;
+}
+
+.interesses {
+    background: #7a777f;
+    padding: 20px 20% 20px 10%;
+}
+
+.desafios {
+    background: #a4a0a9;
+    padding: 20px 20% 20px 10%;
+}
+
+.aprendizado {
+    background: #c2bfc8;
+    padding: 20px 20% 20px 10%;
+}
+
+.duvidas {
+    background: #e5e1eb;
+    padding: 20px 20% 20px 10%;
+}
+
+.contribuicao {
+    background: #f2eef8;
+    padding: 20px 20% 20px 10%;
+}
+
+.ajuda {
+    background: #dfdff3;
+    padding: 20px 20% 20px 10%;
+}
+
+.prioridades {
+    background: #f7f8aa;
+    padding: 20px 20% 20px 10%;
+}
+
+.reconhecimento {
+    background: #fdfdfd;
+    padding: 20px 20% 20px 10%;
+}
